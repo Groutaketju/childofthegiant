@@ -2,23 +2,36 @@ body{
   background-image: url(assets/crowd-at-concert-2.svg)
 }
 
-nav.dude{
+nav.menubalk{
   background-image: none;
   background-color: black;
   opacity: 0.81;
   font-size: 43px;
   border-radius: 0;
-  padding-left: 26vw;
+  padding-left: 19vw;
 }
 
-ul#dudeList li a {
+ul#menuList li a {
   font-family: "Amatic SC";
   color: white;
 }
 
+#waltermelon{
+  width: 50vw;
+  height: 50vh;
+  margin: 0 auto;
+  margin-top: -0.5%;
+}
+
+div#waltermelon iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
 #rautaketju{
   width: 50vw;
-  height: 500px;
+  height: 50vh;
   margin: 0 auto;
   margin-top: -0.5%;
 }
@@ -29,7 +42,7 @@ div#rautaketju iframe {
   border: none;
 }
 
-div.zinnetje{
+div.opening{
   background-color: black;
   font-family: "Amatic SC";
   color:white;
@@ -39,12 +52,48 @@ div.zinnetje{
   margin-top: 0.5%;
 }
 
-div.zinnetje h1{
+div.opening h1{
   font-size: 76px;
   margin-left: 5px;
 }
 
-div.zinnetje p{
+div.opening p{
   font-size: 32px;
   margin-left: 10px;
+}
+
+div.contact{
+  background-color: black;
+  font-family: "Amatic SC";
+  color:white;
+  opacity: 0.91;
+  height: 45vh;
+  width: 50vw;
+  margin-top: 0.5%;
+}
+
+div.contact h1{
+  font-size: 20vh;
+  margin-left: 10vw;
+}
+
+div.contact p{
+  font-size: 10vh;
+  margin-left: 4vw;
+}
+
+div.leden{
+  height: auto;
+  width: 80vw;
+  margin: 3% auto;
+}
+
+div.leden img{
+  height: auto;
+  width: 100%;
+}
+
+div.leden .row .imageRow {
+  width: 20%;
+  padding: 0;
 }
