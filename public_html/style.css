@@ -15,6 +15,10 @@ nav.menubalk{
   max-height: 8vh;
 }
 
+div#topcontrol{
+  left: 5px;
+}
+
 ul#menuList{
   display: inline-block;
   float: none;
