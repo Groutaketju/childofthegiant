@@ -6,9 +6,17 @@ nav.menubalk{
   background-image: none;
   background-color: black;
   opacity: 0.81;
-  font-size: 43px;
+  font-size: 5vh;
   border-radius: 0;
-  padding-left: 19vw;
+  text-align: center;
+  height: 8vh;
+  max-height: 8vh;
+}
+
+ul#menuList{
+  display: inline-block;
+  float: none;
+  margin-top: 1vh;
 }
 
 ul#menuList li a {
@@ -17,7 +25,7 @@ ul#menuList li a {
 }
 
 #waltermelon{
-  width: 50vw;
+  width: 51vw;
   height: 50vh;
   margin: 0 auto;
   margin-top: -0.5%;
@@ -30,7 +38,7 @@ div#waltermelon iframe {
 }
 
 #rautaketju{
-  width: 50vw;
+  width: 51vw;
   height: 50vh;
   margin: 0 auto;
   margin-top: -0.5%;
@@ -47,18 +55,17 @@ div.opening{
   font-family: "Amatic SC";
   color:white;
   opacity: 0.91;
-  height: 27vh;
-  width: 50vw;
+  width: 51vw;
   margin-top: 0.5%;
 }
 
 div.opening h1{
-  font-size: 76px;
+  font-size: 7vh;
   margin-left: 5px;
 }
 
 div.opening p{
-  font-size: 32px;
+  font-size: 4vh;
   margin-left: 10px;
 }
 
@@ -67,19 +74,18 @@ div.contact{
   font-family: "Amatic SC";
   color:white;
   opacity: 0.91;
-  height: 45vh;
-  width: 50vw;
+  min-width: 50vw;
   margin-top: 0.5%;
 }
 
 div.contact h1{
   font-size: 20vh;
-  margin-left: 10vw;
+  text-align: center;
 }
 
 div.contact p{
   font-size: 10vh;
-  margin-left: 4vw;
+  text-align: center;
 }
 
 div.leden{
