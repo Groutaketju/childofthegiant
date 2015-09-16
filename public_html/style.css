@@ -54,9 +54,11 @@ div.opening{
   background-color: black;
   font-family: "Amatic SC";
   color:white;
-  opacity: 0.91;
+  opacity: 0.87;
   width: 51vw;
   margin-top: 0.5%;
+  text-align: center;
+  padding-bottom: 1vh;
 }
 
 div.opening h1{
