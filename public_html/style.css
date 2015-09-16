@@ -1,5 +1,7 @@
 body{
-  background-image: url(assets/crowd-at-concert-2.svg)
+  background-image: url(assets/crowd-at-concert-2.svg);
+  background-color: black;
+  background-repeat: no-repeat;
 }
 
 nav.menubalk{
@@ -257,4 +259,36 @@ div.leden .row .imageRow {
 .infoRob p{
   font-size: 3vh;
   margin-top: -2vh;
+}
+
+div.foto1{
+  height: auto;
+  width: 90vw;
+  margin: 3% auto;
+}
+
+div.foto1 img{
+  height: auto;
+  width: 100%;
+}
+
+div.foto1 .row .imageRow {
+  width: 20%;
+  padding: 0.3vw;
+}
+
+div.foto2{
+  height: auto;
+  width: 90vw;
+  margin: 3% auto;
+}
+
+div.foto2 img{
+  height: auto;
+  width: 100%;
+}
+
+div.foto2 .row .imageRow {
+  width: 20%;
+  padding: 0.3vw;
 }
