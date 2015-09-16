@@ -105,3 +105,68 @@ div.leden .row .imageRow {
   width: 20%;
   padding: 0.3vw;
 }
+
+.infoMike{
+  background-color: black;
+  color: white;
+  width: 17.4vw;
+  font-family: "Amatic SC";
+  font-size: 4vh;
+  margin-left: 5.3%;
+  margin-top: -3%;
+  text-align: center;
+  opacity: 0.88;
+  position: absolute;
+}
+
+.infoTom{
+  background-color: black;
+  color: white;
+  width: 17.4vw;
+  font-family: "Amatic SC";
+  font-size: 4vh;
+  margin-left: 23.3%;
+  margin-top: -3%;
+  text-align: center;
+  opacity: 0.88;
+  position: absolute;
+}
+
+.infoRemco{
+  background-color: black;
+  color: white;
+  width: 17.4vw;
+  font-family: "Amatic SC";
+  font-size: 4vh;
+  margin-left: 41.3%;
+  margin-top: -3%;
+  text-align: center;
+  opacity: 0.88;
+  position: absolute;
+}
+
+.infoNick{
+  background-color: black;
+  color: white;
+  width: 17.4vw;
+  font-family: "Amatic SC";
+  font-size: 4vh;
+  margin-left: 59.3%;
+  margin-top: -3%;
+  text-align: center;
+  opacity: 0.88;
+  position: absolute;
+}
+
+.infoRob{
+  background-color: black;
+  color: white;
+  width: 17.4vw;
+  font-family: "Amatic SC";
+  font-size: 4vh;
+  margin-left: 77.3%;
+  margin-top: -3%;
+  text-align: center;
+  opacity: 0.88;
+  position: absolute;
+}
