@@ -110,9 +110,8 @@ div.leden .row .imageRow {
   background-color: black;
   color: white;
   width: 17.4vw;
-  height: 6vh;
+  height: 12vh;
   font-family: "Amatic SC";
-  font-size: 4vh;
   margin-left: 5.3%;
   margin-top: -3%;
   text-align: center;
@@ -120,13 +119,21 @@ div.leden .row .imageRow {
   position: absolute;
 }
 
+.infoMike h1{
+  font-size: 4vh;
+}
+
+.infoMike p{
+  font-size: 3vh;
+  margin-top: -2vh;
+}
+
 .infoTom{
   background-color: black;
   color: white;
   width: 17.4vw;
-  height: 6vh;
+  height: 12vh;
   font-family: "Amatic SC";
-  font-size: 4vh;
   margin-left: 23.3%;
   margin-top: -3%;
   text-align: center;
@@ -134,13 +141,21 @@ div.leden .row .imageRow {
   position: absolute;
 }
 
+.infoTom h1{
+  font-size: 4vh;
+}
+
+.infoTom p{
+  font-size: 3vh;
+  margin-top: -2vh;
+}
+
 .infoRemco{
   background-color: black;
   color: white;
   width: 17.4vw;
-  height: 6vh;
+  height: 12vh;
   font-family: "Amatic SC";
-  font-size: 4vh;
   margin-left: 41.3%;
   margin-top: -3%;
   text-align: center;
@@ -148,13 +163,21 @@ div.leden .row .imageRow {
   position: absolute;
 }
 
+.infoRemco h1{
+  font-size: 4vh;
+}
+
+.infoRemco p{
+  font-size: 3vh;
+  margin-top: -2vh;
+}
+
 .infoNick{
   background-color: black;
   color: white;
   width: 17.4vw;
-  height: 6vh;
+  height: 12vh;
   font-family: "Amatic SC";
-  font-size: 4vh;
   margin-left: 59.3%;
   margin-top: -3%;
   text-align: center;
@@ -162,16 +185,33 @@ div.leden .row .imageRow {
   position: absolute;
 }
 
+.infoNick h1{
+  font-size: 4vh;
+}
+
+.infoNick p{
+  font-size: 3vh;
+  margin-top: -2vh;
+}
+
 .infoRob{
   background-color: black;
   color: white;
   width: 17.4vw;
-  height: 6vh;
+  height: 12vh;
   font-family: "Amatic SC";
-  font-size: 4vh;
   margin-left: 77.3%;
   margin-top: -3%;
   text-align: center;
   opacity: 0.88;
   position: absolute;
+}
+
+.infoRob h1{
+  font-size: 4vh;
+}
+
+.infoRob p{
+  font-size: 3vh;
+  margin-top: -2vh;
 }
