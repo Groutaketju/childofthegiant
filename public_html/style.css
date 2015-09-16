@@ -37,14 +37,57 @@ div#waltermelon iframe {
   border: none;
 }
 
-#rautaketju{
-  width: 51vw;
-  height: 50vh;
-  margin: 0 auto;
-  margin-top: -0.5%;
+#freeman1{
+  width: 35vw;
+  height: 38vh;
+  margin-left: 12vw;
+  margin-top: 1%;
+  position: absolute;
 }
 
-div#rautaketju iframe {
+div#freeman1 iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+#freeman2{
+  width: 35vw;
+  height: 38vh;
+  margin-left: 48vw;
+  margin-top: 1%;
+  position: absolute;
+}
+
+div#freeman2 iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+#freeman3{
+  width: 35vw;
+  height: 38vh;
+  margin-left: 12vw;
+  margin-top: 21.5%;
+  position: absolute;
+}
+
+div#freeman3 iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+#freeman4{
+  width: 35vw;
+  height: 38vh;
+  margin-left: 48vw;
+  margin-top: 21.5%;
+  position: absolute;
+}
+
+div#freeman4 iframe {
   width: 100%;
   height: 100%;
   border: none;
