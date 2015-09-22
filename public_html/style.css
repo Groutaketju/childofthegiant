@@ -1,7 +1,9 @@
 body{
-  background-image: url(assets/background.jpg);
+  background-image: url(assets/background.png);
   background-color: black;
   background-repeat: no-repeat;
+  background-size: 100%;
+  min-height: 100%;
 }
 
 nav.menubalk{
@@ -13,18 +15,24 @@ nav.menubalk{
   height: 8vh;
   max-height: 8vh;
   border-color: transparent;
-  margin-top: 4.5vh;
+  margin-top: 21.5vh;
 }
 
 div.menuLogo{
   position: absolute;
   height: 20vh;
-  left: 0.5vw;
-  top: -4.5vh;
+  left: 44.5vw;
+  top: -20.5vh;
 }
 
 div.menuLogo img{
   height: 100%;
+}
+
+#homeTekst{
+  width: 100%;
+  height: 100px;
+  background-color: white;
 }
 
 div#topcontrol{
@@ -42,76 +50,9 @@ ul#menuList li a {
   color: white;
 }
 
-#waltermelon{
-  width: 51vw;
-  height: 50vh;
-  margin: 0 auto;
-  margin-top: -0.5%;
-}
-
-div#waltermelon iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
-#freeman1{
-  width: 35vw;
-  height: 38vh;
-  margin-left: 12vw;
-  position: absolute;
-}
-
-div#freeman1 iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
-#freeman2{
-  width: 35vw;
-  height: 38vh;
-  margin-left: 48vw;
-  position: absolute;
-}
-
-div#freeman2 iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
-#freeman3{
-  width: 35vw;
-  height: 38vh;
-  margin-left: 12vw;
-  margin-top: 20.5%;
-  position: absolute;
-}
-
-div#freeman3 iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
-#freeman4{
-  width: 35vw;
-  height: 38vh;
-  margin-left: 48vw;
-  margin-top: 20.5%;
-  position: absolute;
-}
-
-div#freeman4 iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
 div.opening{
   background-color: black;
-  font-family: "Amatic SC";
+  font-family: "Montserrat";
   color:white;
   opacity: 0.87;
   width: 51vw;
@@ -171,8 +112,8 @@ div.leden .row .imageRow {
   width: 17.4vw;
   height: 12vh;
   font-family: "Amatic SC";
-  margin-left: 5.3%;
-  margin-top: -3%;
+  margin-left: 4.9%;
+  margin-top: -0.2%;
   text-align: center;
   opacity: 0.88;
   position: absolute;
@@ -193,8 +134,8 @@ div.leden .row .imageRow {
   width: 17.4vw;
   height: 12vh;
   font-family: "Amatic SC";
-  margin-left: 23.3%;
-  margin-top: -3%;
+  margin-left: 23.05%;
+  margin-top: -0.2%;
   text-align: center;
   opacity: 0.88;
   position: absolute;
@@ -215,8 +156,8 @@ div.leden .row .imageRow {
   width: 17.4vw;
   height: 12vh;
   font-family: "Amatic SC";
-  margin-left: 41.3%;
-  margin-top: -3%;
+  margin-left: 41.25%;
+  margin-top: -0.2%;
   text-align: center;
   opacity: 0.88;
   position: absolute;
@@ -237,8 +178,8 @@ div.leden .row .imageRow {
   width: 17.4vw;
   height: 12vh;
   font-family: "Amatic SC";
-  margin-left: 59.3%;
-  margin-top: -3%;
+  margin-left: 59.4%;
+  margin-top: -0.2%;
   text-align: center;
   opacity: 0.88;
   position: absolute;
@@ -259,8 +200,8 @@ div.leden .row .imageRow {
   width: 17.4vw;
   height: 12vh;
   font-family: "Amatic SC";
-  margin-left: 77.3%;
-  margin-top: -3%;
+  margin-left: 77.55%;
+  margin-top: -0.2%;
   text-align: center;
   opacity: 0.88;
   position: absolute;
@@ -304,4 +245,17 @@ div.foto2 img{
 div.foto2 .row .imageRow {
   width: 20%;
   padding: 0.3vw;
+}
+
+#sliderFrame{
+  width: 100%;
+  margin-top: 10vh;
+}
+
+#slider{
+  width: 100%;
+}
+
+div.navBulletsWrapper{
+  display: none;
 }
