@@ -13,8 +13,18 @@ nav.menubalk{
   height: 8vh;
   max-height: 8vh;
   border-color: transparent;
-  margin-bottom: 0;
-  margin-top: 54px;
+  margin-top: 4.5vh;
+}
+
+div.menuLogo{
+  position: absolute;
+  height: 20vh;
+  left: 0.5vw;
+  top: -4.5vh;
+}
+
+div.menuLogo img{
+  height: 100%;
 }
 
 div#topcontrol{
@@ -49,7 +59,6 @@ div#waltermelon iframe {
   width: 35vw;
   height: 38vh;
   margin-left: 12vw;
-  margin-top: 1%;
   position: absolute;
 }
 
@@ -63,7 +72,6 @@ div#freeman1 iframe {
   width: 35vw;
   height: 38vh;
   margin-left: 48vw;
-  margin-top: 1%;
   position: absolute;
 }
 
@@ -77,7 +85,7 @@ div#freeman2 iframe {
   width: 35vw;
   height: 38vh;
   margin-left: 12vw;
-  margin-top: 21.5%;
+  margin-top: 20.5%;
   position: absolute;
 }
 
@@ -91,7 +99,7 @@ div#freeman3 iframe {
   width: 35vw;
   height: 38vh;
   margin-left: 48vw;
-  margin-top: 21.5%;
+  margin-top: 20.5%;
   position: absolute;
 }
 
@@ -144,7 +152,7 @@ div.contact p{
 div.leden{
   height: auto;
   width: 90vw;
-  margin: 3% auto;
+  margin-top: 6vh;
 }
 
 div.leden img{
@@ -175,7 +183,7 @@ div.leden .row .imageRow {
 }
 
 .infoMike p{
-  font-size: 3vh;
+  font-size: 3.5vh;
   margin-top: -2vh;
 }
 
@@ -197,7 +205,7 @@ div.leden .row .imageRow {
 }
 
 .infoTom p{
-  font-size: 3vh;
+  font-size: 3.5vh;
   margin-top: -2vh;
 }
 
@@ -219,7 +227,7 @@ div.leden .row .imageRow {
 }
 
 .infoRemco p{
-  font-size: 3vh;
+  font-size: 3.5vh;
   margin-top: -2vh;
 }
 
@@ -241,7 +249,7 @@ div.leden .row .imageRow {
 }
 
 .infoNick p{
-  font-size: 3vh;
+  font-size: 3.5vh;
   margin-top: -2vh;
 }
 
@@ -263,14 +271,14 @@ div.leden .row .imageRow {
 }
 
 .infoRob p{
-  font-size: 3vh;
+  font-size: 3.5vh;
   margin-top: -2vh;
 }
 
 div.foto1{
   height: auto;
   width: 90vw;
-  margin: 3% auto;
+  margin-top: 6vh;
 }
 
 div.foto1 img{
@@ -286,7 +294,6 @@ div.foto1 .row .imageRow {
 div.foto2{
   height: auto;
   width: 90vw;
-  margin: 3% auto;
 }
 
 div.foto2 img{
