@@ -85,6 +85,8 @@ div.leden{
   height: auto;
   width: 90vw;
   margin-top: 6vh;
+  position: absolute;
+  margin-left: 4vw;
 }
 
 div.leden img{
@@ -103,6 +105,8 @@ div.ledeninfo{
   color: white;
   font-family: Voltaire;
   opacity: 0.88;
+  margin-left: 4vw;
+  margin-top: 30%;
 }
 
 div.ledeninfo h1{
